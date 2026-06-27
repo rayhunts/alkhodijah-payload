@@ -16,6 +16,7 @@ public/sitemap*.xml
 
 # Playwright
 node_modules/
+*.tsbuildinfo
 /test-results/
 /playwright-report/
 /blob-report/
